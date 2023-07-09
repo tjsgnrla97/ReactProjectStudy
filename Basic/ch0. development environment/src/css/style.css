@@ -1,13 +1,9 @@
-p{
-    
-    
-    
-    
-    color: blue;
+p {
+  color: blue;
 }
 
-div{
-    width: 50px;
-    background-color: skyblue;
-    color: red;
+div {
+  width: 50px;
+  background-color: skyblue;
+  color: red;
 }

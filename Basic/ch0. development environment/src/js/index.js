@@ -1,6 +1,7 @@
-import "../css/style.css"
-let x = 10
+import "../css/style.css";
 
-let y=50
+let x = 10;
 
-console.log(x+y)
+let y = 50;
+
+console.log(x + y);
