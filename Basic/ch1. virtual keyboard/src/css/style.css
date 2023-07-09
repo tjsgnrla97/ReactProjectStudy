@@ -9,7 +9,7 @@ html[theme="dark-mode"] {
 }
 
 body {
-  background-color: white;
+  background-color: dodgerblue;
 }
 
 .container {
@@ -34,7 +34,7 @@ body {
   height: 60px;
   margin: 5px;
   border-radius: 4px;
-  background-color: white;
+  background-color: skyblue;
   cursor: pointer;
   /* ! */
   display: flex;
@@ -46,7 +46,7 @@ body {
 }
 
 .key:hover {
-  background-color: lightgray;
+  background-color: lightgreen;
 }
 
 .key.active {
